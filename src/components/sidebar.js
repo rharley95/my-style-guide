@@ -57,7 +57,7 @@ const Sidebar = ({ siteTitle }) => (
       </li>
     </ul>
     <span className="mini-foot" style={{position: 'absolute', bottom: '0', padding: '10px', color: '#fff', fontSize: '12px'}}>
-        Find it on <a href="#" style={{color: '#2EC4B6' }}>Github.</a>
+        Find it on <a href="https://github.com/rharley95/my-style-guide" style={{color: '#2EC4B6' }}>Github.</a>
     </span>
   </div>
 )
